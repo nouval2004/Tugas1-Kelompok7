@@ -13,7 +13,7 @@ const {
     maksimum,
     minimum,
     bulatkan
-} = require('./solution');
+} = require('../solution');
 
 // Library untuk membaca input dari terminal
 const readline = require('readline');
